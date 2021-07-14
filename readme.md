@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouaad Boutaj</h1>
 <h3 align="center">I'm studing C++ in Morocco.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouaadboutaj&label=Profile%20views&color=0e75b6&style=flat" alt="mouaadboutaj" /> </p>
-
 - 🔭 I’m currently learning **C++**
 
 - 👯 I am in the best team called [Invalide Code](https://web.facebook.com/invalidcode25)
