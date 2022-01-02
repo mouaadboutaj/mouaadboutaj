@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Vue.js and Node.js**
 
-- 👯 I am in the best team called [Invalide Code](https://web.facebook.com/invalidcode25)
+- 🔒 I'm very interested in applications or websites that protect the privacy like **[Tor project](https://www.torproject.org/)**, **[ProtonMail](https://protonmail.com/)** and **[DuckDuckGo](https://duckduckgo.com)**
 
 - 📫 How to reach me **boutajmouaad@pm.me**
 
