@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouaad Boutaj</h1>
 <h3 align="center">I'm a Javascript Developer from Morocco.</h3>
 
-- 🔭 I’m currently learning **React.js and PHP**
+- 🔭 I’m currently learning **Next.js and Laravel**
 
 - 🔒 I'm very interested in applications or websites that protect the privacy like **[Tor project](https://www.torproject.org/)**, **[ProtonMail](https://protonmail.com/)** and **[DuckDuckGo](https://duckduckgo.com)**
 
