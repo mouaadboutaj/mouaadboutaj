@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Laravel**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **PHP**
 
 - 📫 How to reach me **boutajmouaad@pm.me**
 
